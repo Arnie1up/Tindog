@@ -1,2 +1,1 @@
-# Tindog
-website made with udemy course
+TinDog Starting Files
